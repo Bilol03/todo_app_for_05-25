@@ -4,5 +4,11 @@
         "name": "Yuz qo'l yuvish",
         "done": false,
         "user_id": 1
+    },
+    {
+        "id": 2,
+        "name": "Nonushta",
+        "done": false,
+        "user_id": 1
     }
 ]
